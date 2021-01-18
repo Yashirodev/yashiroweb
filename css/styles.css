@@ -1,0 +1,84 @@
+body {
+    background: rgba(71, 5, 102, 0.87);
+    margin: 0 auto;
+}
+
+header {
+    background: url(../images/fond.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 72px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+    font-size: 36px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+img.logo {
+    height: 128px;
+}
+
+h1.title {
+    color: rgb(124, 15, 15);
+    font-size: 72px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h2.title {
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+p.rslinks img:hover {
+    transform: scale(1.1);
+    transition: 0.3s all;
+}
+
+img.tiktokimg {
+    height: 72px;
+}
+
+img.instaimg {
+    height: 72px;
+}
+
+img.ytimg {
+    height: 72px;
+}
+
+img.discordimg {
+    height: 72px;
+}
+
+img.twitterimg {
+    height: 72px;
+}
+
+img.twitchimg {
+    height: 72px;
+}
+
+img.utipimg {
+    height: 72px;
+}
+
+p.discordlinks img:hover {
+    transform: scale(1.1);
+    transition: 0.3s all;
+}
